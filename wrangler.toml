@@ -1,0 +1,6 @@
+[[ 
+d1_databases
+ ]]
+binding = "DB"
+database_name = "newsnow-db"   # 替换为你创建的数据库名称
+database_id = "4a48bc42-f1b7-4146-9c72-a0731e1a44ed" # 替换为刚才复制的数据库ID
